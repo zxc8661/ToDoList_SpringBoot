@@ -1,4 +1,4 @@
-package com.example.ToDoList.ToDo;
+package com.example.ToDoList.ToDo.entity;
 
 
 import jakarta.persistence.*;

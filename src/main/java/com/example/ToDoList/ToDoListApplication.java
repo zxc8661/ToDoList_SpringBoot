@@ -1,12 +1,11 @@
 package com.example.ToDoList;
 
-import com.example.ToDoList.ToDo.Todo;
+import com.example.ToDoList.ToDo.entity.Todo;
 import com.example.ToDoList.ToDo.TodoRepository;
 import lombok.RequiredArgsConstructor;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.web.bind.annotation.GetMapping;
 
 import java.time.LocalDateTime;
 import java.util.List;

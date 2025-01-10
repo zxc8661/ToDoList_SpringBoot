@@ -1,6 +1,6 @@
 package com.example.ToDoList;
 
-import com.example.ToDoList.ToDo.Todo;
+import com.example.ToDoList.ToDo.entity.Todo;
 import com.example.ToDoList.ToDo.TodoRepository;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
